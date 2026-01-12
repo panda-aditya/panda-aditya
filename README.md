@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there!👋
+I'm Adi, a Computer Science & Engineering undergraduate.
 
-<!--
-**panda-aditya/panda-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently
+Building Bloomunity: A community-led sustainability platform (product, growth & data).
 
-Here are some ideas to get you started:
+Exploring MFRA-aligned projects and internships in product, data or quant/strategy roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Languages & Frameworks: Python · Java · C/C++ · JavaScript · React · Node.js
+
+ML & Data: OpenCV · PyTorch/TensorFlow · NumPy · Pandas · scikit-learn
+
+Tools & Infra: Git · Docker · SQL · Linux · Basic Cloud Deployment · MongoDB
+
+Product: Growth experiments · Financial Analytics · Data Modelling · UX/UI Alligned
+
+## Fun Facts
+Deep Interests: Computer Science, Mathematics, Data Science and building practical systems.
+
+Lived In: NYC, Mumbai and Chennai; I enjoy cross-cultural teams and global internship programmes.
+
+Hobbies: Basketball, Gym, building things from scratch
+
+
